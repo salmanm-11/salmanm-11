@@ -1,11 +1,26 @@
--Data Analyst passionate about transforming data into decisions. I work across the full stack 
+# Hi, I'm Salman 👋
 
--SQL & Python for analysis, ML for modeling, Tableau & Power BI for storytelling. Always building, always sharing. Open to new opportunities.
+I'm a **Data Analyst** passionate about turning raw data into meaningful insights and decisions.
 
--📊 Data Analyst | Python • SQL  • Tableau • Power BI
 
--🤖 ML & Statistics enthusiast
+## 🛠️ Tools & Skills
 
--🔧 Building open-source projects
+**Languages & Analysis**
+- Python • SQL 
 
--💡 Sharing knowledge | Open to opportunities
+**Visualization**
+- Power BI • Tableau • Looker • Excel
+
+**Other**
+- Statistics • Machine Learning • Data Storytelling
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔧 Building data projects and sharing them openly
+- 📚 Sharing knowledge with the community
+- 🤝 Open to new opportunities and collaborations
+
+---
+
