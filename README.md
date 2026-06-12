@@ -9,7 +9,7 @@ I'm a **Data Analyst** passionate about turning raw data into meaningful insight
 - Python • SQL 
 
 **Visualization**
-- Power BI • Tableau • Looker • Excel
+- Power BI • Tableau • Excel
 
 **Other**
 - Statistics • Machine Learning • Data Storytelling
